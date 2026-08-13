@@ -4,6 +4,10 @@
 > Este repositório representa **apenas um MVP (Produto Mínimo Viável)** e a **primeira etapa da solução**, focada exclusivamente na **parte da loja (marketplace)** do projeto desenvolvido no Hackathon da Energisa.
 
 **Projeto desenvolvido durante um Hackathon da Energisa**
+Equipe: 
+- André Wanderley
+- Daniel Peixoto
+- Sidney Rodrigues
 
 🔗 **Link do site hospedado:** *https://energisa-store.vercel.app/*
 
