@@ -5,9 +5,9 @@
 
 **Projeto desenvolvido durante um Hackathon da Energisa**
 Equipe: 
-- André Wanderley
-- Daniel Peixoto
-- Sidney Rodrigues
+- André Wanderley - UI/UX
+- Daniel Peixoto - FullStack
+- Sidney Rodrigues - Backend
 
 🔗 **Link do site hospedado:** *https://energisa-store.vercel.app/*
 
