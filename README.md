@@ -5,7 +5,7 @@
 
 **Projeto desenvolvido durante um Hackathon da Energisa**
 Equipe: 
-- André Wanderley - UI/UX
+- André Wanderley - UI/UX (Leader)
 - Daniel Peixoto - FullStack
 - Sidney Rodrigues - Backend
 
